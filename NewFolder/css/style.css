@@ -1,0 +1,114 @@
+
+
+@import url('reset.css');
+body{
+	background:#f0f0f0;
+	color:#000;
+	font-family: 'PT Sans Narrow', Arial, sans-serif;
+	font-size:16px;
+
+}
+header {
+	height: 70px;
+	width: 1110px;
+	position: relative;
+	display: block;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	margin-left: auto;
+	text-align: center;
+}
+
+
+div#descrp {
+	
+    float: center;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+	text-align:left;
+	
+}
+div#des {
+    float: center;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+	text-align:left;
+	
+}
+
+
+div#head {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#333;
+	padding:20px;
+}
+
+footer{
+	position:relative;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	font-size:13px;
+	height:300px;
+	padding-bottom:5px;
+	text-transform:uppercase;
+	background-image: url(../images/footer.png);
+	margin-top: 30px;
+	float: left;
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+
+
+
+.footerwrap {
+	display: block;
+	height: 180px;
+	width: 200%;
+	position: relative;
+	margin-top: 70px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	color: #FFCC66;
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-left: 60px;
+}
+
+
+.pic1 {
+	width: 125%;
+	}
+
+#yr4 {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#pic {
+	width: 100%;
+	}
+
+.yvepic {
+	width: 100%;
+}
+.pic2 {
+	width: 125%;
+	
+}
+
+.yvepic #pic {
+	width: 100%;
+}
+
+#move p{
+	display:inline-block;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:5px;
+}
